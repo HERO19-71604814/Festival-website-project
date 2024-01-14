@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cute+Font&family=Gaegu:wght@300&family=Nanum+Pen+Script&family=Orbit&family=Single+Day&display=swap');
+
+.All-user-pay{
+    font-family: 'Single Day', cursive;
+    font-size: 54px;
+    margin-bottom: 5%;
+}
+
+.All-user-pay-column{
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    font-family: 'Cute Font', sans-serif;
+    font-size: 20px;
+}
+
+.DataGrid-color{
+    background-color: white;
+}

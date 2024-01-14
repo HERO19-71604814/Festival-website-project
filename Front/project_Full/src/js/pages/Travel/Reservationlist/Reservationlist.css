@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cute+Font&family=Gaegu:wght@300&family=Nanum+Pen+Script&family=Orbit&family=Single+Day&display=swap');
+/*예약 목록 스타일*/
+.reserve-list{
+    margin-Left: 0%;
+    margin-Right: 0%;
+    margin-Bottom: 3%;
+    margin-Top: 3%;
+    text-Align: center;
+}
+/*헤더 제목 스타일*/
+.reserve-list-header{
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Single Day', cursive;
+    font-size: 54px;
+    color: #333;
+}
+/*결제버튼 스타일*/
+.pay-button{
+    font-family: 'Cute Font', sans-serif;
+    font-size: 24px;
+    margin-right: 40px;
+}
+
+
+/* 데이터 그리드의 컬럼헤더 숨기기 */
+.hideHeaders .MuiDataGrid-columnHeaders,
+.hideHeaders .MuiDataGrid-columnHeader {
+    display: none;
+}
+
+.hideHeaders .MuiDataGrid-virtualScroller {
+    margin-top: 0 !important;
+}

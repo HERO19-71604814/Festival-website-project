@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cute+Font&family=Gaegu:wght@300&family=Nanum+Pen+Script&family=Orbit&family=Single+Day&display=swap');
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* 양 끝으로 정렬 */
+  align-items: center;
+  
+}
+
+.top-memu {
+  padding-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.bottom-memu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottom-subMenu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav{
+  font-family: 'Cute Font', sans-serif;
+  font-size: 24px;
+}

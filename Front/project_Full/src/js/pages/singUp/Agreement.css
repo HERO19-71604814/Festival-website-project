@@ -1,0 +1,22 @@
+.agree-container {
+  width: 500px;
+  align-items: center;
+}
+
+textarea {
+  height: 200px;
+  resize: none;
+}
+
+.agree-title {
+  text-align: center;
+}
+
+.agree-checkBoxs {
+  display: flex;
+}
+
+input {
+  flex: 1;
+  margin-top: 5px;
+}

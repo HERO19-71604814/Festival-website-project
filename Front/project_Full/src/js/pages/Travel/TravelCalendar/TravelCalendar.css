@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cute+Font&family=Gaegu:wght@300&family=Nanum+Pen+Script&family=Orbit&family=Single+Day&display=swap');
+
+/*달력 년,월 스타일*/
+.calendar-date{
+    text-Align: center;
+    font-Size: 20px;
+    font-Weight: bold;
+}
+
+.calendar-font{
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+    margin-left: 7%;
+    margin-right: 9%;
+   
+}
+/*달력 버튼 스타일*/
+.calendar-button-font{
+ 
+    font-family: 'Gaegu', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.rbc-toolbar button:hover{
+    background-color: #dbfeff;
+}
+
+/*달력 전체 스타일*/
+.calendar {
+    margin-Right: 0px;
+    margin-Left: 0px; 
+    margin-Bottom: 1%;
+    display: flex;
+    justify-Content: center;
+    font-family: 'Gaegu', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: 7px solid #a0a0a0; 
+    border-radius: 10px;
+}
+
+/*축제에 대한 색상*/
+.festival-inform-color {
+    background : linear-gradient(to right, #d2d2ff,  #e9fffc);
+}
+
+/*숙소에 대한 색상*/
+.sugso-inform-color {
+    background: linear-gradient(to right, #91a7ff, #cce5ff);
+}

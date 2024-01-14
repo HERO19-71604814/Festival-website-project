@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cute+Font&family=Gaegu:wght@300&family=Nanum+Pen+Script&family=Orbit&family=Single+Day&display=swap');
+
+.TravalPackAdd{
+  margin-top: 30px;
+  text-align: center;
+  font-family: 'Cute Font',sans-serif;
+  font-size: 20px;
+}
+
+.map {
+  border: 1px solid black;
+}
+
+.select-form {
+  margin-bottom: 20px;
+}
+
+.roomSearch{
+   background-color: blue;
+}
