@@ -71,34 +71,34 @@
 # 💻 화면 구성
 <div align="center">
 
-<table border="1">
-	<th style="text-align:center">메인 페이지</th>
+<table>
+	<th style="text-align:center">🏠 메인 페이지</th>
 	<tr>
 	    <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/메인 페이지.png"></td>
 	</tr>
 </table>
 <br>
 
-<table border="1">
-	<th style="text-align:center">여행 지도 페이지</th>
+<table>
+	<th style="text-align:center">🗺 여행 지도 페이지</th>
 	<tr>
 	    <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 지도.png"></td>
 	</tr>
 </table>
 <br>
 
-<table border="1">
-	<th style="text-align:center">여행 달력 페이지</th>
+<table>
+	<th style="text-align:center">📅 여행 달력 페이지</th>
 	<tr>
 	    <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 달력.png"></td>
 	</tr>
 </table>
 <br>
 
-<table border="1" style="text-align:center">
+<table style="text-align:center">
     <thead>
         <tr>
-            <th colspan=2 style="text-align:center">여행 상품 페이지</th>
+            <th colspan=2 style="text-align:center">🏨 여행 상품 페이지</th>
         </tr>
     </thead>
     <tbody>
@@ -136,3 +136,8 @@
 - 축제일정을 알수있는 기능
 ### 여행상품(숙소예약/결제)
 - 축제 일정에 맞춰서 숙소를 예약/결제할수있는 기능  
+
+# 🎞 프로젝트 시연
+<div align="center">
+  <img src="https://youtu.be/tnU7hc1aKJk?si=vFZMAc-hxg2lThoS">
+</div>
