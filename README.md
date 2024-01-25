@@ -91,23 +91,23 @@
     </thead>
     <tbody>
         <tr>
-            <td width="140px">여행 상품 목록 페이지</td>
+            <td width="25%" >여행 상품 목록 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 목록.png"></td>
         </tr>
         <tr>
-            <td width="140px">숙소 예약 페이지</td>
+            <td>숙소 예약 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 예약.png"></td>
         </tr>
         <tr>
-            <td width="140px">숙소 예약 목록 페이지</td>
+            <td>숙소 예약 목록 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/에약 목록.png"></td>
         </tr>
         <tr>
-            <td width="140px">숙소 결제 페이지</td>
+            <td>숙소 결제 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 결제.png"></td>
         </tr>
         <tr>
-            <td >숙소 결제 완료 페이지</td>
+            <td>숙소 결제 완료 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/결제 완료.png"></td>
         </tr>
     </tbody>
