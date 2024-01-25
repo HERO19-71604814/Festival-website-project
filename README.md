@@ -140,6 +140,6 @@
 # 🎞 프로젝트 시연
 <div align="center">
 
-[![Video Label](image/프로젝트%20로고.png)](https://youtu.be/tnU7hc1aKJk)
+[![Video Label](http://img.youtube.com/vi/tnU7hc1aKJk/0.jpg)](https://youtu.be/tnU7hc1aKJk)
 
 </div>
