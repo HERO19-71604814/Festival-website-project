@@ -19,12 +19,12 @@
 </br>
 
 # 프로젝트 소개
-> 개발 배경 
+### 개발 배경 
 - 이원화되어 운영되고 있는 일반 지역축제 및 문화관광축제 페이지 통합 운영 필요
 - 시각적 도구를 통한 직관적 정보전달
 - 최신 축제 정보 제공을 통한 축제 정보 서비스 경험 개선 및 고객 유입 확대
 
-> 개발 목적
+### 개발 목적
 - 대한민국 구석구석 홈페이지를 참 고하여 독립적인 홈페이지 구축
 - 전국 지역축제 정보 통합 제공
 - 서비스 경험(UX/UI) 개선
@@ -33,8 +33,10 @@
 </br>
 
 # 시작 가이드
+### 필요한 설치 파일
+> 백엔드: Spring Tool Suite <br> 프론트 엔드: Visual Studio Code <br> 데이터베이스: MariaDB
 
-</br>
+<br>
 
 # 기술 스택
 <!--
@@ -62,14 +64,63 @@
 > <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <br>
 
 ### - 깃허브
-> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
+> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"> <br>
+
 <br>
 
-
 # 화면 구성/API 주소
+<div align="center">
 
+  | 메인 페이지 |
+  | --- |
+  | <img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/메인 페이지.png"> |
+
+  | 여행 지도 페이지 |
+  | --- | 
+  | <img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 지도.png"> |
+
+  | 여행 달력 페이지 |
+  | --- | 
+  | <img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 달력.png"> |
+
+<table>
+    <thead>
+        <tr>
+            <th colspan=2 style="text-align:center">여행 상품 페이지</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td width="140px">여행 상품 목록 페이지</td>
+            <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 목록.png"></td>
+        </tr>
+        <tr>
+            <td width="140px">숙소 예약 페이지</td>
+            <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 예약.png"></td>
+        </tr>
+        <tr>
+            <td width="140px">숙소 예약 목록 페이지</td>
+            <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/에약 목록.png"></td>
+        </tr>
+        <tr>
+            <td width="140px">숙소 결제 페이지</td>
+            <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 결제.png"></td>
+        </tr>
+        <tr>
+            <td width="140px">숙소 결제 완료 페이지</td>
+            <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/결제 완료.png"></td>
+        </tr>
+    </tbody>
+</table>
+</div>
 </br>
 
 # 주요 기능
-
-
+### 게시판
+- 사용자들끼리 소통 하거나 축제에대한 정보를 알수있는 기능
+### 여행 지도
+- 어느지역에 축제가 열리는지 알수있는 기능
+### 여행 달력
+- 축제일정을 알수있는 기능
+### 여행상품(숙소예약/결제)
+- 축제 일정에 맞춰서 숙소를 예약/결제할수있는 기능  
