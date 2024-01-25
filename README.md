@@ -138,7 +138,4 @@
 - 축제 일정에 맞춰서 숙소를 예약/결제할수있는 기능  
 
 # 🎞 프로젝트 시연
-<div align="center">
-  <img src="https://youtu.be/tnU7hc1aKJk?si=vFZMAc-hxg2lThoS">
-</div>
-[![Video Label](image/프로젝트%20로고.png)](https://youtu.be/tnU7hc1aKJk?si=vFZMAc-hxg2lThoS)
+
