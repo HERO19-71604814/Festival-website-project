@@ -71,19 +71,31 @@
 # 💻 화면 구성
 <div align="center">
 
-  | 메인 페이지 |
-  | --- |
-  | <img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/메인 페이지.png"> |
+<table border="1">
+	<th style="text-align:center">메인 페이지</th>
+	<tr>
+	    <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/메인 페이지.png"></td>
+	</tr>
+</table>
+<br>
 
-  | 여행 지도 페이지 |
-  | --- | 
-  | <img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 지도.png"> |
+<table border="1">
+	<th style="text-align:center">여행 지도 페이지</th>
+	<tr>
+	    <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 지도.png"></td>
+	</tr>
+</table>
+<br>
 
-  | 여행 달력 페이지 |
-  | --- | 
-  | <img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 달력.png"> |
+<table border="1">
+	<th style="text-align:center">여행 달력 페이지</th>
+	<tr>
+	    <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/여행 달력.png"></td>
+	</tr>
+</table>
+<br>
 
-<table>
+<table border="1" style="text-align:center">
     <thead>
         <tr>
             <th colspan=2 style="text-align:center">여행 상품 페이지</th>
@@ -91,23 +103,23 @@
     </thead>
     <tbody>
         <tr>
-            <td width="25%" >여행 상품 목록 페이지</td>
+            <td width="25%">1. 여행 상품 목록 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 목록.png"></td>
         </tr>
         <tr>
-            <td>숙소 예약 페이지</td>
+            <td>2. 숙소 예약 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 예약.png"></td>
         </tr>
         <tr>
-            <td>숙소 예약 목록 페이지</td>
+            <td>3. 숙소 예약 목록 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/에약 목록.png"></td>
         </tr>
         <tr>
-            <td>숙소 결제 페이지</td>
+            <td>4. 숙소 결제 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/숙소 결제.png"></td>
         </tr>
         <tr>
-            <td>숙소 결제 완료 페이지</td>
+            <td>5. 숙소 결제 완료 페이지</td>
             <td><img src="image/9. 포트폴리오 (팀명 - 컴딱지 둘기들)(프로젝트 - Viva la Fiesta!!)Final/결제 완료.png"></td>
         </tr>
     </tbody>
