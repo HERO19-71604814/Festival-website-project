@@ -13,7 +13,7 @@
 - [❕ 개발 목적](#-개발-목적)
 - [📈 개발 기간](#-개발-기간)
 <!-- 2. 프로젝트 개발 팀 -->
-[📋 프로젝트 개발 팀](#-프로젝트-개발-팀)
+[👨‍💻 프로젝트 개발 팀](#-프로젝트-개발-팀)
 <!-- 3. 기술 스택(사용한 기술) -->
 [🛠 기술 스택](#-기술-스택)
 <!-- 4. 프로젝트 시작 방법 -->
@@ -150,7 +150,7 @@
 <table style="text-align : center;">
     <tbody>
         <tr>
-            <th>백엔드</th>
+            <th width="20%">백엔드</th>
             <th>
             <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
             <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
@@ -207,13 +207,39 @@
 
 <!-- 4. 프로젝트 시작 방법 -->
 # 🏁 프로젝트 시작 방법
-### 필요한 설치 파일
-> 백엔드: Spring Tool Suite(최신 버전)
-
-> 프론트 엔드: Visual Studio Code(최신 버전)
-
-> 데이터베이스: MariaDB(최신 버전)
-
+<div align="center">
+<table style="text-align : center;">
+    <tbody>
+        <tr>
+            <th width="20%">필요한 설치 파일</th>
+            <th>
+                백엔드: Spring Tool Suite(최신 버전), JDK 17<br>
+                프론트 엔드: Visual Studio Code(최신 버전), Node.js<br>
+                데이터베이스: MariaDB(최신 버전)
+            </th>
+        </tr>
+        <tr>
+            <th>지도 API</th>
+            <th>Kakao 지도 API: https://apis.map.kakao.com</th>
+        </tr>
+        <tr>
+            <th>결제 API</th>
+            <th>토스페이먼츠 개발자센터: https://developers.tosspayments.com</th>
+        </tr>
+        <tr>
+            <th>서버 배포</th>
+            <th>Amazon Web Services: https://aws.amazon.com/ko</th>
+        </tr>
+        <tr>
+            <th>코드 파일</th>
+            <th>
+                백엔드: <br>
+                프론트 엔드:
+            </th>
+        </tr>
+    </tbody>
+</table>
+</div>
 <br>
 
 <!-- 5. 화면 구성(화면 정의서) -->
