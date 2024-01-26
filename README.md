@@ -68,8 +68,8 @@
 <!-- 2. 프로젝트 개발 팀 -->
 # 📋 프로젝트 개발 팀
 <div align="center">
-<table style="text-align:center">
-    <tbody>
+<table>
+    <tbody style="text-align:center">
         <tr>
             <td width="20%">김기철</td>
             <td width="20%">이영웅</td>
