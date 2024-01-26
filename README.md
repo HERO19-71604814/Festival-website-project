@@ -68,30 +68,30 @@
 <!-- 2. 프로젝트 개발 팀 -->
 # 📋 프로젝트 개발 팀
 <div align="center">
-<table>
+<table style="text-align:center">
     <tbody>
-        <tr style="text-align:center">
+        <tr>
             <td width="20%">김기철</td>
             <td width="20%">이영웅</td>
             <td width="20%">박민욱</td>
             <td width="20%">이석우</td>
             <td width="20%">심재훈</td>
         </tr>
-        <tr style="text-align:center">
+        <tr>
             <td><img src="2. project 문서/image/팀 소개 프로필 사진/PM.png" width="100px" height="100px"></td>
             <td><img src="2. project 문서/image/팀 소개 프로필 사진/PL.png" width="100px" height="100px"></td>
             <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA1.png" width="100px" height="100px"></td>
             <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA2.png" width="100px" height="100px"></td>
             <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA3.png" width="100px" height="100px"></td>
         </tr>
-        <tr style="text-align:center">
+        <tr>
             <td>PM</td>
             <td>PL</td>
             <td>PA</td>
             <td>PA</td>
             <td>PA</td>
         </tr>
-        <tr>
+        <tr style="text-align:left">
             <td> 
                 - 회원 기능(로그인,  회원가입, 아이디 / 비밀번호찾기) <br>
                 - 비밀번호 암호화 <br>
