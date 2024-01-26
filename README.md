@@ -80,47 +80,47 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PM.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PL.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA1.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA2.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA3.png" width="100px" height="100px"></td>
+            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PM.png" width="100px" height="100px"></th>
+            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PL.png" width="100px" height="100px"></th>
+            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PA1.png" width="100px" height="100px"></th>
+            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PA2.png" width="100px" height="100px"></th>
+            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PA3.png" width="100px" height="100px"></th>
         </tr>
         <tr>
-            <td>PM</td>
-            <td>PL</td>
-            <td>PA</td>
-            <td>PA</td>
-            <td>PA</td>
+            <th>PM</th>
+            <th>PL</th>
+            <th>PA</th>
+            <th>PA</th>
+            <th>PA</th>
         </tr>
         <tr>
-            <td> 
+            <th> 
                 - 회원 기능(로그인,  회원가입, 아이디 / 비밀번호찾기) <br>
                 - 비밀번호 암호화 <br>
                 - 게시판 기능(게시글 생성, 수정, 삭제), 댓글, 첨부파일
-            </td>
-            <td>
+            </th>
+            <th>
                 - 패키지 여행 예약 <br>
                 - 결제 시스템 <br>
                 - 서버 배포 <br>
                 - 여행 지도 <br>
                 - 여행 달력 
-            </td>
-            <td>
+            </th>
+            <th>
                 - 헤더, 푸터바 추가작업 <br>
                 - 마이페이지(회원, 관리자) <br>
                 - 사이드바 스타일 
-            </td>
-            <td>
+            </th>
+            <th>
                 - 패키지 여행 예약 <br>
                 - 결제 시스템 <br>
                 - 여행 지도 <br>
                 - 여행 달력 
-            </td>
-            <td>     
+            </th>
+            <th>     
                 - 여행 지도, 여행 달력, 패키지 관리 <br>
                 - 메인 홈페이지, 푸터바, 초안 스타일
-            </td>
+            </th>
         </tr>
     </tbody>
 </table>
