@@ -68,14 +68,14 @@
 <!-- 2. 프로젝트 개발 팀 -->
 # 📋 프로젝트 개발 팀
 <div align="center">
-<table  style="text-align:center">
+<table>
     <thead>
         <tr>
-            <td width="20%"  style="text-align:center">김기철</td>
-            <td width="20%">이영웅</td>
-            <td width="20%">박민욱</td>
-            <td width="20%">이석우</td>
-            <td width="20%">심재훈</td>
+            <th style="text-align:center" width="20%">김기철</th>
+            <th style="text-align:center" width="20%">박민욱</th>
+            <th style="text-align:center" width="20%">이영웅</th>
+            <th style="text-align:center" width="20%">이석우</th>
+            <th style="text-align:center" width="20%">심재훈</th>
         </tr>
     </thead>
     <tbody>
