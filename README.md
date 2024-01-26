@@ -233,8 +233,10 @@
         <tr>
             <th>코드 파일</th>
             <td>
-                백엔드: 1. project file/Back/festival<br>
-                프론트 엔드: 1. project file/Front/project_Full
+
+[백엔드 코드 파일](https://github.com/HERO19-71604814/Festival-website-project/tree/aa33cabe11e2c78e344a61fb517d9ee2ea2d38d6/1.%20project%20file/Back/festival)<br> 
+
+[프론트 엔드 코드 파일](https://github.com/HERO19-71604814/Festival-website-project/tree/aa33cabe11e2c78e344a61fb517d9ee2ea2d38d6/1.%20project%20file/Front/project_Full) 
             </td>
         </tr>
     </tbody>
