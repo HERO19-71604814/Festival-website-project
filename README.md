@@ -9,6 +9,9 @@
 # 📖 목차
 <!-- 1. 프로젝트 소개 -->
 [📑 프로젝트 소개](#-프로젝트-소개)
+- [❔ 개발 배경](#-개발-배경)
+- [❕ 개발 목적](#-개발-목적)
+- [📈 개발 기간](#-개발-기간)
 <!-- 2. 프로젝트 개발 팀 -->
 [📋 프로젝트 개발 팀](#-프로젝트-개발-팀)
 <!-- 3. 기술 스택(사용한 기술) -->
@@ -30,17 +33,20 @@
 # 📑 프로젝트 소개
 
 <h3 align="center">📃 중앙능력개발원 팀 프로젝트: 축제 웹 사이트 개발 📃</h3>
+<br>
 
 > ### ❔ 개발 배경 
 - 이원화되어 운영되고 있는 일반 지역축제 및 문화관광축제 페이지 통합 운영 필요
 - 시각적 도구를 통한 직관적 정보전달
 - 최신 축제 정보 제공을 통한 축제 정보 서비스 경험 개선 및 고객 유입 확대
+<br>
 
 > ### ❕ 개발 목적
 - 대한민국 구석구석 홈페이지를 참 고하여 독립적인 홈페이지 구축
 - 전국 지역축제 정보 통합 제공
 - 서비스 경험(UX/UI) 개선
 - 사용자 이용 편의성 제고
+<br>
 
 > ### 📈 개발기간
 <div align="center">
@@ -57,14 +63,67 @@
     </tbody>
 </table>
 </div>
-</br>
+<br>
 
 <!-- 2. 프로젝트 개발 팀 -->
 # 📋 프로젝트 개발 팀
-<p align="center">
-  <img src="2. project 문서/image/팀소개.png">
-</p>
-</br>
+<div align="center">
+<table>
+    <tbody>
+        <tr style="text-align:center">
+            <td width="20%">김기철</td>
+            <td width="20%">이영웅</td>
+            <td width="20%">박민욱</td>
+            <td width="20%">이석우</td>
+            <td width="20%">심재훈</td>
+        </tr>
+        <tr style="text-align:center">
+            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PM.png" width="100px" height="100px"></td>
+            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PL.png" width="100px" height="100px"></td>
+            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA1.png" width="100px" height="100px"></td>
+            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA2.png" width="100px" height="100px"></td>
+            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA3.png" width="100px" height="100px"></td>
+        </tr>
+        <tr style="text-align:center">
+            <td>PM</td>
+            <td>PL</td>
+            <td>PA</td>
+            <td>PA</td>
+            <td>PA</td>
+        </tr>
+        <tr>
+            <td> 
+                - 회원 기능(로그인,  회원가입, 아이디 / 비밀번호찾기) <br>
+                - 비밀번호 암호화 <br>
+                - 게시판 기능(게시글 생성, 수정, 삭제), 댓글, 첨부파일
+            </td>
+            <td>
+                - 패키지 여행 예약 <br>
+                - 결제 시스템 <br>
+                - 서버 배포 <br>
+                - 여행 지도 <br>
+                - 여행 달력 
+            </td>
+            <td>
+                - 헤더, 푸터바 추가작업 <br>
+                - 마이페이지(회원, 관리자) <br>
+                - 사이드바 스타일 
+            </td>
+            <td>
+                - 패키지 여행 예약 <br>
+                - 결제 시스템 <br>
+                - 여행 지도 <br>
+                - 여행 달력 
+            </td>
+            <td>     
+                - 여행 지도, 여행 달력, 패키지 관리 <br>
+                - 메인 홈페이지, 푸터바, 초안 스타일
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<br>
 
 <!-- 3. 기술 스택(사용한 기술) -->
 # 🛠 기술 스택
