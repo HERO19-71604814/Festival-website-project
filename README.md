@@ -93,7 +93,7 @@
             <th>PA</th>
             <th>PA</th>
         </tr>
-        <tr>
+        <tr style="text-align : left;">
             <th> 
                 - 회원 기능(로그인,  회원가입, 아이디 / 비밀번호찾기) <br>
                 - 비밀번호 암호화 <br>
