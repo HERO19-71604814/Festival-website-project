@@ -211,31 +211,31 @@
 <table style="text-align : center;">
     <tbody>
         <tr>
-            <th width="20%">필요한 설치 파일</th>
-            <th>
+            <th>필요한 설치 파일</th>
+            <td>
                 백엔드: Spring Tool Suite(최신 버전), JDK 17<br>
                 프론트 엔드: Visual Studio Code(최신 버전), Node.js<br>
                 데이터베이스: MariaDB(최신 버전)
-            </th>
+            </td>
         </tr>
         <tr>
             <th>지도 API</th>
-            <th>Kakao 지도 API: https://apis.map.kakao.com</th>
+            <td>Kakao 지도 API: https://apis.map.kakao.com</td>
         </tr>
         <tr>
             <th>결제 API</th>
-            <th>토스페이먼츠 개발자센터: https://developers.tosspayments.com</th>
+            <td>토스페이먼츠 개발자센터: https://developers.tosspayments.com</td>
         </tr>
         <tr>
             <th>서버 배포</th>
-            <th>Amazon Web Services: https://aws.amazon.com/ko</th>
+            <td>Amazon Web Services: https://aws.amazon.com/ko</td>
         </tr>
         <tr>
             <th>코드 파일</th>
-            <th>
-                백엔드: <br>
-                프론트 엔드:
-            </th>
+            <td>
+                백엔드: 1. project file/Back/festival<br>
+                프론트 엔드: 1. project file/Front/project_Full
+            </td>
         </tr>
     </tbody>
 </table>
