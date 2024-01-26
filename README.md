@@ -68,8 +68,8 @@
 <!-- 2. 프로젝트 개발 팀 -->
 # 📋 프로젝트 개발 팀
 <div align="center">
-<table>
-    <tbody style="text-align:center">
+<table style="text-align:center">
+    <tbody>
         <tr>
             <td width="20%">김기철</td>
             <td width="20%">이영웅</td>
@@ -91,7 +91,7 @@
             <td>PA</td>
             <td>PA</td>
         </tr>
-        <tr style="text-align:left">
+        <tr>
             <td> 
                 - 회원 기능(로그인,  회원가입, 아이디 / 비밀번호찾기) <br>
                 - 비밀번호 암호화 <br>
