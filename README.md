@@ -80,18 +80,18 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PM.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PL.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA1.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA2.png" width="100px" height="100px"></td>
-            <td><img src="2. project 문서/image/팀 소개 프로필 사진/PA3.png" width="100px" height="100px"></td>
+            <td style="text-align:center"><img src="2. project 문서/image/팀 소개 프로필 사진/PM.png" width="100px" height="100px"></td>
+            <td style="text-align:center"><img src="2. project 문서/image/팀 소개 프로필 사진/PL.png" width="100px" height="100px"></td>
+            <td style="text-align:center"><img src="2. project 문서/image/팀 소개 프로필 사진/PA1.png" width="100px" height="100px"></td>
+            <td style="text-align:center"><img src="2. project 문서/image/팀 소개 프로필 사진/PA2.png" width="100px" height="100px"></td>
+            <td style="text-align:center"><img src="2. project 문서/image/팀 소개 프로필 사진/PA3.png" width="100px" height="100px"></td>
         </tr>
         <tr>
-            <td>PM</td>
-            <td>PL</td>
-            <td>PA</td>
-            <td>PA</td>
-            <td>PA</td>
+            <td style="text-align:center">PM</td>
+            <td style="text-align:center">PL</td>
+            <td style="text-align:center">PA</td>
+            <td style="text-align:center">PA</td>
+            <td style="text-align:center">PA</td>
         </tr>
         <tr>
             <td> 
