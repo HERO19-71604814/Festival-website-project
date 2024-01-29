@@ -60,8 +60,8 @@
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td rowspan=3>2023년 11월</td>
-            <td>1주차<br>[11월 13일 (월) ~ 11월 17일 (금)]</td>
+            <th rowspan=3>2023년 11월</th>
+            <th>1주차<br>[11월 13일 (월) ~ 11월 17일 (금)]</th>
             <td>
 - 서류작업
             </td>
