@@ -50,7 +50,7 @@
 - 사용자 이용 편의성 제고
 <br>
 
-> ### 📈 개발기간
+> ### 📈 개발 기간
 <div align="center">
 <table style="text-align:center">
     <thead>
