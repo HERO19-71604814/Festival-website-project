@@ -55,12 +55,67 @@
 <table style="text-align:center">
     <thead>
         <tr>
-            <th style="text-align:center">2023년 11월 13일 ~ 2024년 1월 8일 (총 57일)</th>
+            <th colspan=3 style="text-align:center">2023년 11월 13일 ~ 2024년 1월 8일 (총 57일)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src="2. project 문서/8. 일정표(간트차트)/간트차트 2차.png"></td>
+            <td rowspan=3>2023년 11월</td>
+            <td>1주차<br>[11월 13일 (월) ~ 11월 17일 (금)]</td>
+            <td>
+
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td>2주차<br>[11월 20일 (월) ~ 11월 24일 (금)]</td>
+            <td>
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td>3주차<br>[11월 27일 (월) ~ 12월 01일 (금)]</td>
+            <td>
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=4>2023년 12월</td>
+            <td>4주차<br>[12월 04일 (월) ~ 12월 08일 (금)]</td>
+            <td>
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td>5주차<br>[12월 11일 (월) ~ 12월 15일 (금)]</td>
+            <td>
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td>6주차<br>[12월 18일 (월) ~ 11월 22일 (금)]</td>
+            <td>
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td>7주차<br>[12월 25일 (월) ~ 12월 29일 (금)]</td>
+            <td>
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=2>2024년 01월</td>
+            <td>8주차<br>[01월 01일 (월) ~ 01월 05일 (금)]</td>
+            <td>
+- 서류작업
+            </td>
+        </tr>
+        <tr>
+            <td>9주차<br>[01월 08일 (월)]</td>
+            <td>
+- 서류작업
+            </td>
         </tr>
     </tbody>
 </table>
