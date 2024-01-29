@@ -58,12 +58,11 @@
             <th colspan=3 style="text-align:center">2023년 11월 13일 ~ 2024년 1월 8일 (총 57일)</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align:center">
         <tr>
             <td rowspan=3>2023년 11월</td>
             <td>1주차<br>[11월 13일 (월) ~ 11월 17일 (금)]</td>
             <td>
-
 - 서류작업
             </td>
         </tr>
