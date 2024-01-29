@@ -115,31 +115,10 @@
 # 👨‍💻 프로젝트 개발 팀
 <div align="center">
 <table style="text-align : center;">
-    <thead>
-        <tr>
-            <th width="20%">김기철</th>
-            <th width="20%">이영웅</th>
-            <th width="20%">박민욱</th>
-            <th width="20%">이석우</th>
-            <th width="20%">심재훈</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PM.png" width="100px" height="100px"></th>
-            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PL.png" width="100px" height="100px"></th>
-            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PA1.png" width="100px" height="100px"></th>
-            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PA2.png" width="100px" height="100px"></th>
-            <th><img src="2. project 문서/image/팀 소개 프로필 사진/PA3.png" width="100px" height="100px"></th>
-        </tr>
-        <tr>
+            <th>김기철</th>
             <th>PM</th>
-            <th>PL</th>
-            <th>PA</th>
-            <th>PA</th>
-            <th>PA</th>
-        </tr>
-        <tr>
             <td> 
                 - 회원 기능<br>
                 > 로그인, 회원가입<br>
@@ -149,6 +128,10 @@
                 > 게시글 생성, 수정, 삭제<br>
                 > 댓글, 첨부파일
             </td>
+        </tr>
+        <tr>
+            <th>이영웅</th>
+            <th>PL</th>
             <td>
                 - 패키지 여행 예약 <br>
                 - 결제 시스템 <br>
@@ -156,6 +139,10 @@
                 - 여행 지도 <br>
                 - 여행 달력 
             </td>
+        </tr>
+        <tr>
+            <th>박민욱</th>
+            <th>PA</th>
             <td>
                 - 헤더 추가작업 <br>
                 - 푸터바 추가작업 <br>
@@ -163,12 +150,20 @@
                 > 회원, 관리자 <br>
                 - 사이드바 스타일 
             </td>
+        </tr>
+        <tr>
+            <th>이석우</th>
+            <th>PA</th>
             <td>
                 - 패키지 여행 예약 <br>
                 - 결제 시스템 <br>
                 - 여행 지도 <br>
                 - 여행 달력 
             </td>
+        </tr>
+        <tr>
+            <th>심재훈</th>
+            <th>PA</th>
             <td>     
                 - 메인 홈페이지 초안 스타일 <br>
                 - 푸터바 초안 스타일 <br>
