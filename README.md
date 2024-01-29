@@ -117,9 +117,9 @@
 <table style="text-align : center;">
     <tbody>
         <tr>
-            <th width="20%">김기철</th>
-            <th width="20%">PM</th>
-            <td width="60%"> 
+            <th >김기철</th>
+            <th >PM</th>
+            <td > 
                 - 회원 기능<br>
                 > 로그인, 회원가입<br>
                 > 아이디/비밀번호찾기<br>
