@@ -279,7 +279,6 @@
         <tr>
             <th>문서</th>
             <td>
- 
 PPT: [축제 웹 사이트 포트폴리오](https://github.com/HERO19-71604814/Festival-website-project/tree/47562521f62fd520d5a3d45bbddc6eaec5ca5283/2.%20project%20%EB%AC%B8%EC%84%9C/9.%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4) 
             </td>
         </tr>
