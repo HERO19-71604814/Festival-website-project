@@ -276,6 +276,13 @@
 프론트 엔드: [프론트 엔드 코드 파일](https://github.com/HERO19-71604814/Festival-website-project/tree/aa33cabe11e2c78e344a61fb517d9ee2ea2d38d6/1.%20project%20file/Front/project_Full) 
             </td>
         </tr>
+        <tr>
+            <th>문서</th>
+            <td>
+ 
+PPT: [축제 웹 사이트 포트폴리오](https://github.com/HERO19-71604814/Festival-website-project/tree/47562521f62fd520d5a3d45bbddc6eaec5ca5283/2.%20project%20%EB%AC%B8%EC%84%9C/9.%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4) 
+            </td>
+        </tr>
     </tbody>
 </table>
 </div>
@@ -377,7 +384,7 @@
 
 <!-- 9. 개선 사항(필요 없을 시 주석처리) -->
 # 🔨 개선 사항 🔧
-> 파이어 베이스의 이미지 로딩으로 인한 오류 
-<br> - 여행 상품 목록(숙소 목록) 불러올 때 파이어베이스의 숙소 목록 이미지 불러올 때 긴 로딩시간발생
-<br> - 로딩 시간으로 인한 로그인이 된 상태에서 로그아웃되는 오류 발생
-<br> ※ 예상해결방안: 구글 클라우드로 코드 및 API 전체 교체    
+- 🔖 해야 할 작업 목록
+    1. 파이어 베이스의 이미지 로딩으로 인한 오류 
+        - 여행 상품 목록(숙소 목록) 불러올 때 파이어베이스의 숙소 목록 이미지 불러올 때 긴 로딩시간발생  
+        - 로딩 시간으로 인한 로그인이 된 상태에서 로그아웃되는 오류 발생 <br> ※ 예상해결방안: 구글 클라우드로 코드 및 API 전체 교체    
